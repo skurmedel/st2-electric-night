@@ -102,7 +102,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B8B2AB</string>
+				<string>#8f937a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +195,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#B8B2AB</string>
+				<string>#8f937a</string>
 			</dict>
 		</dict>
 		<dict>
